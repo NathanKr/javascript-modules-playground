@@ -1,2 +1,2 @@
-This is not working without server due to CORS
-Need to check this with a server
+client side using import\export but due to CORS you must use server
+node server.js and type http://localhost:8080/ in the browser address bar

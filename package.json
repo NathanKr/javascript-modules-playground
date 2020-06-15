@@ -1,0 +1,24 @@
+{
+  "name": "javascript-modules-playground",
+  "version": "1.0.0",
+  "description": "This is not working without server due to CORS\r Need to check this with a server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/javascript-modules-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/javascript-modules-playground/issues"
+  },
+  "homepage": "https://github.com/NathanKr/javascript-modules-playground#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
