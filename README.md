@@ -3,7 +3,13 @@ es6 introduced js modules for the first time. module allow you to split your cod
 
 
 <h2>setup</h2>
-node server.js and type http://localhost:8080/ in the browser address bar
+
+```
+npm i
+node server.js
+
+```
+and type http://localhost:8080/ in the browser address bar
 
 <h2>API</h2>
 <ul>
